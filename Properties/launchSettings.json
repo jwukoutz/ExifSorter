@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExifSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\DCIM\" \"D:\\SORTED\""
+    }
+  }
+}

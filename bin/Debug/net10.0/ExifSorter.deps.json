@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExifSorter/1.0.0": {
+        "dependencies": {
+          "MetadataExtractor": "2.9.0"
+        },
+        "runtime": {
+          "ExifSorter.dll": {}
+        }
+      },
+      "MetadataExtractor/2.9.0": {
+        "dependencies": {
+          "XmpCore": "6.1.10.1"
+        },
+        "runtime": {
+          "lib/net8.0/MetadataExtractor.dll": {
+            "assemblyVersion": "2.9.0.0",
+            "fileVersion": "2.9.0.0"
+          }
+        }
+      },
+      "XmpCore/6.1.10.1": {
+        "runtime": {
+          "lib/netstandard2.0/XmpCore.dll": {
+            "assemblyVersion": "6.1.10.1",
+            "fileVersion": "6.1.10.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExifSorter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MetadataExtractor/2.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2V9QSpVtbkERSkNxVvm/9bKDO177W+qqagfBQTAS1T5uAyvTBRjfj2tVGCLYavK3ZPMakWxcvSrSzTDxTbqwLA==",
+      "path": "metadataextractor/2.9.0",
+      "hashPath": "metadataextractor.2.9.0.nupkg.sha512"
+    },
+    "XmpCore/6.1.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/Tp2/e39e7z8hLtS4TXt0FNNZHbf5yNFfHS0/59soXlgOzZlyRZivvzWpvujyaWkTWWgecp/1nHxkuc5vntn7A==",
+      "path": "xmpcore/6.1.10.1",
+      "hashPath": "xmpcore.6.1.10.1.nupkg.sha512"
+    }
+  }
+}

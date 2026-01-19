@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYh1RTy9ifU=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\ExifSorter\\ExifSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuliusWukoutz\\.nuget\\packages\\metadataextractor\\2.9.0\\metadataextractor.2.9.0.nupkg.sha512",
+    "C:\\Users\\JuliusWukoutz\\.nuget\\packages\\xmpcore\\6.1.10.1\\xmpcore.6.1.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}
